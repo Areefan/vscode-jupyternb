@@ -1,6 +1,6 @@
 # ทดสอบการใช้งาน Jupyter Notebook บน VScode
 
-> วิธี Install และใช้งาน Jupyter Notebook บน VScode สามารถดูได้จาก [Link](https://) นี้
+> วิธี Install และใช้งาน Jupyter Notebook บน VScode สามารถดูได้จาก [Link](https://medium.com/@nesutosan/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-vscode-jupyter-notebook-8c93351d078f) นี้
 
 ### Credit เนื้อหาบางส่วน:
 
